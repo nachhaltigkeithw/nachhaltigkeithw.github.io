@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nachhaltigkeithw.github.io/precache-manifest.1c4a1c285e0cfce755b5f46d7ac51bf2.js"
+  "/nachhaltigkeithw.github.io/precache-manifest.2f52210535d9364fd6dcf4c254993deb.js"
 );
 
 self.addEventListener('message', (event) => {
