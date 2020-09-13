@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1a4719417784ad646c6e78d9501d689",
+    "revision": "269611477edef732a170247a4279ea0b",
     "url": "/nachhaltigkeithw.github.io/index.html"
   },
   {
-    "revision": "5209af71e14f676b90ce",
-    "url": "/nachhaltigkeithw.github.io/static/css/main.b795d04a.chunk.css"
+    "revision": "ccf73a39cce7dfb263f2",
+    "url": "/nachhaltigkeithw.github.io/static/css/main.51eeb224.chunk.css"
   },
   {
     "revision": "c1b98446719c759545d7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nachhaltigkeithw.github.io/static/js/2.2294175a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5209af71e14f676b90ce",
-    "url": "/nachhaltigkeithw.github.io/static/js/main.a62752ef.chunk.js"
+    "revision": "ccf73a39cce7dfb263f2",
+    "url": "/nachhaltigkeithw.github.io/static/js/main.04a42037.chunk.js"
   },
   {
     "revision": "c7c9c172b08c3cd360f6",
