@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afe344330b4d4d6e61b1725f1838cb2e",
+    "revision": "f1a4719417784ad646c6e78d9501d689",
     "url": "/nachhaltigkeithw.github.io/index.html"
   },
   {
-    "revision": "cf64a9bf58803876d642",
-    "url": "/nachhaltigkeithw.github.io/static/css/main.c6dc8d6a.chunk.css"
+    "revision": "5209af71e14f676b90ce",
+    "url": "/nachhaltigkeithw.github.io/static/css/main.b795d04a.chunk.css"
   },
   {
-    "revision": "83709495b281d989f1c4",
-    "url": "/nachhaltigkeithw.github.io/static/js/2.d2d794f9.chunk.js"
+    "revision": "c1b98446719c759545d7",
+    "url": "/nachhaltigkeithw.github.io/static/js/2.2294175a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/nachhaltigkeithw.github.io/static/js/2.d2d794f9.chunk.js.LICENSE.txt"
+    "url": "/nachhaltigkeithw.github.io/static/js/2.2294175a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf64a9bf58803876d642",
-    "url": "/nachhaltigkeithw.github.io/static/js/main.78e55439.chunk.js"
+    "revision": "5209af71e14f676b90ce",
+    "url": "/nachhaltigkeithw.github.io/static/js/main.a62752ef.chunk.js"
   },
   {
     "revision": "c7c9c172b08c3cd360f6",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nachhaltigkeithw.github.io/static/media/health.f35991ec.png"
   },
   {
-    "revision": "efce2859224ec2115b614563fde2d75d",
-    "url": "/nachhaltigkeithw.github.io/static/media/hw-header.efce2859.png"
+    "revision": "2136e5cea5847ae1175c4e311cf99531",
+    "url": "/nachhaltigkeithw.github.io/static/media/hw-header2.2136e5ce.png"
   },
   {
     "revision": "ccda0abd490e08f4c880344ec8e80430",
