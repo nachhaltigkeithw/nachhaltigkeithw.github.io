@@ -1,6 +1,6 @@
 import React from 'react';
 import Popup from "reactjs-popup";
-import './logo.css';
+import './item.css';
 
 interface LogoProps {
     text: string,
@@ -10,13 +10,11 @@ interface LogoProps {
     bg: string,
 }
 
-class Logo extends React.Component<LogoProps> {
+class Item extends React.Component<LogoProps> {
     render() {
-        return (
-            <div>
-                <Popup
+        return (<Popup
                     trigger={
-                        <div className="button" style={{
+                        <div className="button buttonhover" style={{
                             position: "absolute", left: `${this.props.posx}%`,
                             top: `${this.props.posy}%`, width: "20%"
                         }}><h2>{this.props.text}</h2>
@@ -36,9 +34,8 @@ class Logo extends React.Component<LogoProps> {
 
                         </div>
                     )}
-                </Popup>
-            </div>);
+                </Popup>);
     }
 }
 
-export default Logo;
+export default Item;
