@@ -24,25 +24,21 @@ class App extends React.Component {
                     <img src={header} alt="logo" style={{width: "30%"}}/>
                 </div>
                 <Item text={"Konsum und Produktion"} logo={consumer} posx={25} posy={15} bg="#7DB156">
-                    über Lieferketten und Entsorgung informieren, Information, Papier Art/sparen,
-                    Weiternutzung und Reparatur statt Neukauf, nachhaltige Landwirtschaft,
-                    Wasser sparen (Essensangebote… bio, regional, unverpackt)</Item>
+                    über Lieferketten und Entsorgung informieren, Recycling- und Schmierpapier verwenden und sparen, Reuse-Repair-Recycle, Wasser sparen, Verpackung sparen, Essensangebote bio-regional-unverpackt</Item>
                 <Item text={"saubere Energie"} logo={idea} posx={55} posy={15} bg="#FDC00B">
-                    elektr. Energie, Heizungsenergie, Art/sparen, neue Warmwasseranlage
+                    elektr. Energie & Heizungsenergie sparen (Hinweisschilder an die Heizungen zum korrekten Heizen), Anbieter bewusst wählen, neue Warmwasseranlage (aktuell im Umbau)
+
                 </Item>
                 <Item text={"Gesundheit & Wohlergehen"} logo={health} posx={15} posy={42} bg="#CD4C40">
-                    Nahrung, Trinkwasser, Bewegung, Lärmbelastung, Temperatur/Hitze
+                    Nahrung, Trinkwasser (Wasserspender), Bewegung (Fußballfeld, Tischtennis u.ä. auf dem Schulhof), Lärm reduzieren (Schallertüchtigung der Räume), Temperatur/Hitze
                 </Item>
                 <Item text={"Infrastruktur, Innovation"} logo={infrastructure} posx={65} posy={42} bg="#E3B58E">
-                    mehr Fahrradstellplätze
+                    mehr Fahrradstellplätze, Alternativen zu Flugreisen
                 </Item>
                 <Item text={"Leben im Wasser & an Land"} logo={water} posx={25} posy={70} bg="#A1DDF7">
-                    Plastikpiraten, Biodiversitätsgruppe, sauberes Wasser
+                    Projekte (z.B. Plastikpiraten), Biodiversitätsgruppe, sauberes Wasser, Hofreinigungsdienst der Sek-I-Klassen auf dem Schulhof
                 </Item>
-                <Item text={"Partnerschaft zur Erreichung der Ziele"} logo={global} posx={55} posy={70} bg="#C149F7">
-                    Partnerschaft zur Erreichung der Ziele
-                    Partnerschaft zur Erreichung der Ziele
-                    Partnerschaft zur Erreichung der Ziele
+                <Item text={"Partnerschaft zur Erreichung der Ziele"} logo={global} posx={55} posy={70} bg="#C149F7">Kooperationen mit den Stadtwerken (Wärmebilder), kathi&käthe-Unverpackt-Laden, dem IASS und mit anderen Einrichtungen auf der Insel
                 </Item>
             </div>
         );
